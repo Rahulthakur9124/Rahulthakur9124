@@ -11,4 +11,16 @@ I'm a **2nd-year BTech student** majoring in **Mathematics and Computing** at De
 - 💼 Open to internships and freelance projects in **Data Science**, and **Software Engineering**.
 - 🎯 Actively preparing for **DSA**, honing problem-solving skills.
 
+## 📜 Certifications Badges
+<div align-items:center; gap: 10px;' align='center'>
+<img src="1.png" width="200" style="display:inline-block; margin-right: 10px;" />
+<img src="2.png" width="200" style="display:inline-block; margin-right: 10px;" />
+<img src="3.png" width="200" style="display:inline-block; margin-right: 10px;" />
+<img src="4.png" width="200" style="display:inline-block; margin-right: 10px;" />
+<img src="5.png" width="200" style="display:inline-block; margin-right: 10px;" />
+<img src="6.png" width="200" style="display:inline-block; margin-right: 10px;" />
+<img src="Postman Dark.png" width="200" style="display:inline-block; margin-right: 10px;" />
+</div>
+
+
 
