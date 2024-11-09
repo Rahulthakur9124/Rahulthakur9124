@@ -19,6 +19,7 @@ I'm a **2nd-year BTech student** majoring in **Mathematics and Computing** at De
 <img src="4.png" width="200" style="display:inline-block; margin-right: 10px;" />
 <img src="5.png" width="200" style="display:inline-block; margin-right: 10px;" />
 <img src="6.png" width="200" style="display:inline-block; margin-right: 10px;" />
+<img src="Hack-Web3Conf 2024 Badge (2).png" width="200" style="display:inline-block; margin-right: 10px;" />
 <img src="Postman Dark.png" width="200" style="display:inline-block; margin-right: 10px;" />
 </div>
 
